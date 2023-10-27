@@ -4,7 +4,9 @@ const Card = ({ children, img }) => {
   return (
     <div className={styles.card}>
       <img src={img} alt="" />
+      <div>
       {children}
+      </div>
     </div>
   );
 };
