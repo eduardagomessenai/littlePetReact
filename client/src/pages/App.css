@@ -1,1 +1,9 @@
+.App{
+    background: #eee9f4f0;
+}
 
+
+.container{
+    display: flex;
+    gap: 20px;
+}
