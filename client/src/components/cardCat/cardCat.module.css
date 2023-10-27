@@ -1,0 +1,9 @@
+.cardCat{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cardCat img{
+    border-radius: 100%;
+}
